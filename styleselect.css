@@ -1,0 +1,50 @@
+body{
+	font-family:verdana;
+	font-size:14px;
+	background:#d6c173;
+}
+
+.container{
+	width:1120px;
+	margin:0 auto;
+	border:1px solid #eeeeee;
+	background:#ffffff;
+	padding:10px;
+}
+
+h1{
+	text-align:center;
+	color:#c04e22;
+	
+}
+table{
+	border:1px solid #eeeeee;
+	border-collapse: collapse;
+	width:100%;
+}
+
+table th{
+	border:1px solid #eeeeee;
+	text-align:center;
+	color:#c04e22;
+	height:40px;
+}
+table td{
+	border:1px solid #eeeeee;
+	padding:5px;
+	
+}
+
+#processing{
+	display:none;
+	margin-top:10px;
+}
+
+#person-data{
+	margin-top:10px;
+}
+
+#person-list{
+	height:30px;
+	width:250px;
+}
